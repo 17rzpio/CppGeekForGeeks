@@ -1,0 +1,92 @@
+﻿  pch.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\mizhari.h(16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\mizhari.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\mizhari.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Array.cpp
+  Banco.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Banco.cpp(25,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Banco.cpp(27,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Conta.cpp
+  Equipamento.cpp
+  Foo3.cpp
+  Motor.cpp
+  Stl.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(258,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(313,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(360,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(416,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(806,17): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(972,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(1196,12): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(1266,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(1342,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2478,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2488,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2506,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2521,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2605,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2624,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2656,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2665,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2672,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2687,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2694,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2709,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2716,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2725,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(2736,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(3988,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(4872,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(4908,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(6072,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(6088,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(7304,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TaticaEficaz.cpp
+  TaticaEficaz2.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\TaticaEficaz2.cpp(16,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\TaticaEficaz2.cpp(16,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\TaticaEficaz2.cpp(16,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\TaticaEficaz2.cpp(16,11): message : this argument is used as a buffer size
+  Template2.cpp
+  Template3.cpp
+  Template4.cpp
+  Template5.cpp
+  Template6.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Template6.cpp(6,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Template6B.cpp
+  Template7.cpp
+  Template8.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Template8.cpp(20,35): warning C4305: 'argument': truncation from 'double' to 'Temp'
+          with
+          [
+              Temp=float
+          ]
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Template8.cpp(33,36): warning C4305: 'argument': truncation from 'double' to 'Temp2'
+          with
+          [
+              Temp2=float
+          ]
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Template8.cpp(33,25): warning C4244: 'argument': conversion from 'double' to 'Temp1', possible loss of data
+          with
+          [
+              Temp1=int
+          ]
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Template8.cpp(40,30): warning C4305: 'argument': truncation from 'double' to 'C'
+          with
+          [
+              C=float
+          ]
+  Template9.cpp
+  mizhari.cpp
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\mizhari.cpp(118,6): warning C4552: '+': result of expression not used
+  Generating Code...
+C:\Users\rodri\source\repos\TaticaEficaz\TaticaEficaz\Stl.cpp(6990): warning C4715: 'Stl::prime': not all control paths return a value
+  TaticaEficaz.vcxproj -> C:\Users\rodri\source\repos\TaticaEficaz\x64\Debug\TaticaEficaz.exe
